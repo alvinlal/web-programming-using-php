@@ -1,0 +1,11 @@
+.internal1 {
+  border: 3px dotted rebeccapurple;
+  text-align: center;
+  padding: 10px;
+}
+
+.internal2 {
+  background-color: bisque;
+  padding: 10px;
+  text-align: center;
+}
