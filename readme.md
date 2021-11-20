@@ -5,26 +5,26 @@
 ````
 1. HTML
 
-     1. Create a webpage to display your biodata
+  1. Create a webpage to display your biodata
 
-     2. Create a webpage for book publishing company
+  2. Create a webpage for book publishing company
 
-     3. Create a webpage for an academic institution with the following pages
+  3. Create a webpage for an academic institution with the following pages
 
-  1. Home page
+      1. Home page
 
-  2. Courses
+     2. Courses
 
-  3. Infrastructure
-
-  4. Contact details
+     3. Infrastructure
+     
+     4. Contact details
 
 4. Create a website for a product which has the following pages
 
- 1. Home page
- 2. Product specification
- 3. Image gallery
- 4. booking
+     1. Home page
+     2. Product specification
+     3. Image gallery
+     4. booking
 
 2. CSS
 
